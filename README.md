@@ -4,7 +4,7 @@ These are my source codes from previous participation to google code jam coding 
 They are only my proposed solution, please consider that they are my first working draft solutions from the contest which is time limited and thus are probably far from being the best written solution you could find.
 
 ## 2017
-This was my first participation to the contest. I have to admit I didn't train at all before. I only succeeded the first step and was lacking a bit of time to finish 2nd round challenges. Specific practice is definitely needed to perform well in this contest but this a good challenge for coders willing to improve there coding skill.
+This was my first participation to the contest. I have to admit I didn't train at all before. I only succeeded the first qualification round and was lacking a bit of time to finish the 2nd. Specific practice is definitely needed to perform well in this contest but this a good challenge for coders willing to improve there coding skill.
 
 - ### Qualification
   - [Problem A - Oversized Pancake Flipper](https://code.google.com/codejam/contest/3264486/dashboard)
